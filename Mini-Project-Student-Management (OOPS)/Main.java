@@ -7,7 +7,7 @@ public class Main {
         IMenu menu = new MenuImpl(studentService);
 
         System.out.println("Welcome to JDBC Student Database System");
-        System.out.println("managed By Chinmay Sharma");
+        System.out.println("managed By Sneha Singh");
         menu.showMenu();
     }
 
